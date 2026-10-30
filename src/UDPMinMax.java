@@ -51,6 +51,7 @@ public class UDPMinMax {
     public void close() {
         if (mySocket!=null) {
             mySocket.close();
+
         }
     }
 
